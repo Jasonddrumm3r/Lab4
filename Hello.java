@@ -6,3 +6,4 @@ public class Hello {
     }
 }
     
+//BENJAMIN RICHARDS WAS HERE - CIS 285 CHANGE FOR GITHUB TASK 2
